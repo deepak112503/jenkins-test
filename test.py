@@ -1,1 +1,1 @@
-print("Wassup Buddy!! b7"
+prin"Wassup Buddy!! b7"
